@@ -1,0 +1,19 @@
+{
+  "name": "be-socket-solutes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "nodemon": "^3.1.7",
+    "socket.io": "^4.8.1"
+  }
+}
